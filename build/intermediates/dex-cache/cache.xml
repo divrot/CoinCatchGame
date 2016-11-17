@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/divrot/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.4/194b33382d6d58fad031521ba3331d926c476c9b/gdx-backend-android-1.9.4.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="194b33382d6d58fad031521ba3331d926c476c9b">
+        <dex dex="/home/divrot/libGDX Games/jumpCoin/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.4_c3757d44023324d7e751616041ad1ab3854afb4f.jar" />
+    </item>
+    <item
+        jar="/home/divrot/libGDX Games/jumpCoin/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="dbd11db8e32f4b5e4df62d0e075c875fb87af71e">
+        <dex dex="/home/divrot/libGDX Games/jumpCoin/android/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b01af5f13ca91e3e22da9b3edee6b986cc217101.jar" />
+    </item>
+    <item
+        jar="/home/divrot/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.4/4b4b7962d1bc75af0438f5c81ec1010557bc9ee5/gdx-1.9.4.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4b4b7962d1bc75af0438f5c81ec1010557bc9ee5">
+        <dex dex="/home/divrot/libGDX Games/jumpCoin/android/build/intermediates/pre-dexed/debug/gdx-1.9.4_5df58dda55b4beb88c2b3e4ba9eb74479eba36cd.jar" />
+    </item>
+    <item
+        jar="/home/divrot/libGDX Games/jumpCoin/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="0f41c758a97496ee5af0d695b4e3ea14522fc5e8">
+        <dex dex="/home/divrot/libGDX Games/jumpCoin/android/build/intermediates/pre-dexed/debug/instant-run_55277bef19fc9355dab9dbcef3a5029c681fe958.jar" />
+    </item>
+
+</items>

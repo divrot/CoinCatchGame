@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="344197079830164"
+    token="-1460394119739954382" >
+
+    <task
+        name="javac"
+        duration="1147" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="453" />
+    <task
+        name="verifier"
+        duration="658" />
+
+    <artifact
+        location="/home/divrot/libGDX Games/jumpCoin/android/build/outputs/apk/android-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="344197079830164" >
+        <artifact
+            location="/home/divrot/libGDX Games/jumpCoin/android/build/outputs/apk/android-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
